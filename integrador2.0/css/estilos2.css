@@ -1,0 +1,47 @@
+
+/*usado na primeira section com classe container*/
+.fundoF{
+    background-color: aliceblue;
+}
+/*usado para dar espaçamento entre slide e proximo conteudo (aplicado na tag da equipe)*/
+.orgSlide{
+	padding-top:10px;
+}
+/* usado para editar fotos da equipe de clinica (aplicado na tag img da equipe)*/
+.ajusteA{
+    padding-top: 10px;
+    margin: 0 auto;
+    width: 200px;
+    border-radius:50%
+}
+
+/*usado no rodapé (aplicado na tag footer)*/
+.rodaP{
+	opacity:0.9;
+	display: flex;
+	padding-left:25px;
+	bottom:0;
+	width:100%;
+	background-color: #192e36;
+	color:#fff;
+	
+}
+
+.orgSlideB{
+	padding-bottom:10px;
+}
+
+.ajusteC{
+    padding-top: 10px;
+    margin: 0 auto;
+    width: 100px;
+	border-radius: 50%;
+}
+.arredondar{
+	border-radius: 30%;
+}
+.ajusteQ{
+	width:85%;
+}
+
+/*usado para espaçamento do slide dos planos (Aplicado na tag de planos)*/
